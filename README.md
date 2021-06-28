@@ -1,6 +1,12 @@
 # Test Driven Development (TDD)
+- Write a test to fail
+- Write code that passes the test
+- Refactor the code / eliminate redundancies
+
 ![TDD](https://developer.ibm.com/developer/default/articles/5-steps-of-test-driven-development/images/tdd-red-green-refactoring-v3.png)
 
+
+  
 - Import 'unittest' and 'pytest' as these are the dependencies for test creation
 ```python
 
